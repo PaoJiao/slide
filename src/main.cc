@@ -1,3 +1,5 @@
+#define WEBVIEW_IMPLEMENTATION
+
 #include <app.h>
 
 int main() {
